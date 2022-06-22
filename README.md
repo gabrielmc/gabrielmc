@@ -42,8 +42,6 @@
   
 <img align="center" alt="Rafa-gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg">
 
-<img align="center" alt="Rafa-slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-plain.svg">
-
 <img align="center" alt="Rafa-fastapi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg">
 
 <img align="center" alt="Rafa-Yii" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-plain.svg">
