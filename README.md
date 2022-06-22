@@ -1,7 +1,8 @@
-### Olá! Eu sou Gabriel Muniz 😊
+### Olá! Eu sou Gabriel Muniz 🚀
 
 - 🌱 Ampliando os estudos de Front-end e Metodologias ágeis
 - 📫 Entre em contado via munhosga@gmail.com
+- 📚 Analista e Desenvolvedor de Sistemas - IFBA .
 
 <div align="center">
   <a href="https://github.com/gabrielmc">
