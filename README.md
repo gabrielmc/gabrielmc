@@ -60,3 +60,7 @@
   
 </div>
   
+![Snake animation](https://github.com/gabrielmc/gabrielmc/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
