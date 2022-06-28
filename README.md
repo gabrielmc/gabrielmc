@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Muniz 🚀
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">  Olá! Eu sou Gabriel Muniz 🚀
 
 - 🌱 Ampliando os estudos de Front-end e Metodologias ágeis
 - 📫 Entre em contado via munhosga@gmail.com
