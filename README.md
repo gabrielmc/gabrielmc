@@ -66,18 +66,7 @@ Tenho experiência no desenvolvimento de **APIs**, **aplicações web**, **integ
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
----
 
-### 📊 Indicadores do GitHub
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmc&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmc&layout=compact&langs_count=6&theme=dark" />
-</div>
-
----
-
-### 🐍 Progresso de Contribuições
-![Snake animation](https://github.com/gabrielmc/gabrielmc/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📫 Contato
