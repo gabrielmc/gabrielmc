@@ -78,7 +78,6 @@ Tenho experiência no desenvolvimento de **APIs**, **aplicações web**, **integ
 
 ### 🐍 Progresso de Contribuições
 ![Snake animation](https://github.com/gabrielmc/gabrielmc/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 📫 Contato
