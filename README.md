@@ -20,6 +20,7 @@ Tenho experiência no desenvolvimento de **APIs**, **aplicações web**, **integ
 - 👨🏿‍💻 **Análise e Desenvolvimento de Sistemas** — IFBA  
 - 📕 **Pós-graduação em Análise de Dados**  
 - 📗 **MBA em Segurança da Informação**
+- 📘 **Srum Master e Product Owner**
 
 ---
 
