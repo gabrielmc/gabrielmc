@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Gabriel Muniz
 
 Sou **Analista e Desenvolvedor de Sistemas**, formado pelo **IFBA**, com pós-graduação em **Análise de Dados** e **MBA em Segurança da Informação**.  
-Atuo com foco em **desenvolvimento de software robusto, escalável e bem estruturado**, utilizando principalmente **PHP, Python, Java e JavaScript**, tanto no back-end quanto no front-end.
+Atuo com foco em **desenvolvimento de software robusto, escalável e bem estruturado**, utilizando principalmente **PHP, Python, Java, C#(.NET) e JavaScript**, tanto no back-end quanto no front-end.
 
 Tenho experiência no desenvolvimento de **APIs**, **aplicações web**, **integrações** e **sistemas corporativos**, aplicando boas práticas de código, versionamento, testes e documentação.
 
